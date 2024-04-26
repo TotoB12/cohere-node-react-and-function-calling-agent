@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/cohere": "^0.0.8",
+    "@langchain/community": "^0.0.51",
+    "@langchain/core": "^0.1.59",
+    "@langchain/openai": "^0.0.28",
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.8",
+    "cohere": "^1.1.1",
+    "cohere-ai": "^7.9.5",
+    "duck-duck-scrape": "^2.2.5",
+    "langchain": "^0.1.35",
+    "luxon": "^3.4.4",
+    "node-fetch": "^3.3.2",
+    "npm-openweathermap": "^0.0.1",
+    "openweather-apis": "^4.5.0"
+  }
+}
